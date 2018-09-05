@@ -1,0 +1,30 @@
+{ "campaigns":[
+  {
+    "id": "100",
+    "name": "March Sales",
+    "thresholds": {
+      "max_total": 4,
+      "max_per_user": 3
+    },
+    "data": {}
+  },
+  {
+    "id": "101",
+    "name": "April Sales",
+    "thresholds": {
+      "max_total": 5,
+      "max_per_user": 1
+    },
+    "data": {}
+  },
+  {
+    "id": "103",
+    "name": "May Sales",
+    "thresholds": {
+      "max_total": 0,
+      "max_per_user": 2
+    },
+    "data": {}
+  }
+]
+}
